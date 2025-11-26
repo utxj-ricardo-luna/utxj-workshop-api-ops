@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: utxj-workshop
+  namespace: utxj-workshop-ricardo
   name: utxj-workshop-api
 spec:
   replicas: 2
