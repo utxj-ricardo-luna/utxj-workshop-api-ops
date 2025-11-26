@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  namespace: utxj-workshop
+  namespace: utxj-workshop-ricardo
   name: utxj-workshop-api
 spec:
   selector:
